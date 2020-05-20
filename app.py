@@ -253,4 +253,4 @@ The data is provided [freely online](https://live.house.gov/?date=2019-11-13)
 by the U.S. government and has not been checked for transcription accuracy.
 ''' )
 st.sidebar.markdown( 'App by [Nathan Carter](http://nathancarter.github.io)' )
-st.sidebar.markdown( '[Code on GitHub](http://github.com/nathancarter/)' )
+st.sidebar.markdown( '[Code on GitHub](https://github.com/nathancarter/impeachment-word-study)' )
